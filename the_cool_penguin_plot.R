@@ -10,5 +10,5 @@ raw_data |>
   ggplot(aes(x = flipper_length_mm, y = body_mass_g, col = species)) +
   geom_point() +
   scale_color_viridis(option = "viridis", discrete = TRUE) +
-  labs(x = "Flipper length (mm)", y = "Body mass (g)", title = "The pengin plot") +
+  labs(x = "Flipper length (mm)", y = "Body mass (g)", title = "The penguin plot") +
   theme_bw()
