@@ -1,3 +1,6 @@
+library(renv)
+renv::init()
+
 #see the data
 summary(palmerpenguins::penguins)
 library(ggplot2)
