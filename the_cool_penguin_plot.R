@@ -12,3 +12,6 @@ raw_data |>
   scale_color_viridis(option = "viridis", discrete = TRUE) +
   labs(x = "Flipper length (mm)", y = "Body mass (g)", title = "The penguin plot") +
   theme_bw()
+
+
+#something went wrong
