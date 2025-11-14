@@ -13,5 +13,3 @@ raw_data |>
   labs(x = "Flipper length (mm)", y = "Body mass (g)", title = "The plot") +
   theme_bw()
 
-
-#something went SOOOOO wrong
