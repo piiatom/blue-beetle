@@ -1,1 +1,3 @@
-#create a new script
+#create a new 
+
+#a new statistical model
